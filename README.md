@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Yuli...   👋💖
 
-<!--
-**ily13v/ily13v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m Newbie
+- 📫 Contact me on gmail: febrianilove13@gmail.com
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+<a href="https://www.youtube.com/channel/UC_tUzflb4hPOj0a0N3xnRKg"><img align="left" alt="Yulia Febriani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a href="https://twitter.com/yf13_ilyv"><img align="left" alt="yuli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+
+
+<br />
+<br />
+<br />
+<br />
